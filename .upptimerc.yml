@@ -8,8 +8,7 @@ sites:
   - name: Main Site
     url: https://www.oxybill.com
   - name: Docs OxyBill
-    url: https://docs.oxybill.com  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://docs.oxybill.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
