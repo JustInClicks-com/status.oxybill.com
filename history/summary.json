@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.oxybill.com.ico",
     "slug": "oxy-bill-app",
     "status": "down",
-    "uptime": "7.46%",
+    "uptime": "7.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 88,
+      "2022-10-19": 96,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -379,8 +380,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oxybill.com.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "59.64%",
+    "uptime": "59.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.69%",
+    "uptimeYear": "51.41%",
     "time": 500,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-10-18": 88,
+      "2022-10-19": 96,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -607,7 +608,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.oxybill.com.ico",
     "slug": "docs-oxy-bill",
     "status": "down",
-    "uptime": "17.52%",
+    "uptime": "17.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -618,7 +619,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 88,
+      "2022-10-19": 96,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -981,8 +983,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   }
 ]
