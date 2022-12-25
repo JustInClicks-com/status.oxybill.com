@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.oxybill.com.ico",
     "slug": "oxy-bill-app",
     "status": "down",
-    "uptime": "6.50%",
+    "uptime": "6.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1972,
+    "time": 1979,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-24": 52,
+      "2022-12-25": 59,
+      "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -379,8 +380,7 @@
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
-      "2021-12-26": 1440,
-      "2021-12-25": 1440
+      "2021-12-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oxybill.com.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "51.95%",
+    "uptime": "51.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "47.19%",
-    "time": 521,
+    "time": 523,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2022-12-24": 52,
+      "2022-12-25": 60,
+      "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -608,8 +609,7 @@
       "2021-12-29": 244,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
-      "2021-12-26": 1440,
-      "2021-12-25": 1440
+      "2021-12-26": 1440
     }
   },
   {
@@ -618,18 +618,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.oxybill.com.ico",
     "slug": "docs-oxy-bill",
     "status": "down",
-    "uptime": "15.26%",
+    "uptime": "15.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 177,
+    "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-24": 52,
+      "2022-12-25": 60,
+      "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -992,8 +993,7 @@
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
-      "2021-12-26": 1440,
-      "2021-12-25": 1440
+      "2021-12-26": 1440
     }
   }
 ]
