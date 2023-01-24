@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.oxybill.com.ico",
     "slug": "oxy-bill-app",
     "status": "down",
-    "uptime": "6.14%",
+    "uptime": "6.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-23": 58,
+      "2023-01-24": 61,
+      "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -379,8 +380,7 @@
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
-      "2022-01-25": 1440,
-      "2022-01-24": 1440
+      "2022-01-25": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oxybill.com.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "49.12%",
+    "uptime": "49.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.39%",
-    "time": 565,
+    "uptimeYear": "40.11%",
+    "time": 567,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 591,
+    "timeYear": 590,
     "dailyMinutesDown": {
-      "2023-01-23": 58,
+      "2023-01-24": 61,
+      "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -640,7 +641,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.oxybill.com.ico",
     "slug": "docs-oxy-bill",
     "status": "down",
-    "uptime": "14.43%",
+    "uptime": "14.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -651,7 +652,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-23": 58,
+      "2023-01-24": 62,
+      "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -1014,8 +1016,7 @@
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
-      "2022-01-25": 1440,
-      "2022-01-24": 1440
+      "2022-01-25": 1440
     }
   }
 ]
