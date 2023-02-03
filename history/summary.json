@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.oxybill.com.ico",
     "slug": "oxy-bill-app",
     "status": "down",
-    "uptime": "6.03%",
+    "uptime": "6.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 60,
+      "2023-02-03": 63,
+      "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -379,8 +380,7 @@
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
-      "2022-02-04": 1440,
-      "2022-02-03": 1440
+      "2022-02-04": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oxybill.com.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "48.24%",
+    "uptime": "48.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.67%",
-    "time": 583,
+    "uptimeYear": "37.39%",
+    "time": 585,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 558,
+    "timeYear": 556,
     "dailyMinutesDown": {
-      "2023-02-02": 61,
+      "2023-02-03": 63,
+      "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -646,7 +647,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.oxybill.com.ico",
     "slug": "docs-oxy-bill",
     "status": "down",
-    "uptime": "14.17%",
+    "uptime": "14.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -657,7 +658,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 61,
+      "2023-02-03": 63,
+      "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -1020,8 +1022,7 @@
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
-      "2022-02-04": 1440,
-      "2022-02-03": 1440
+      "2022-02-04": 1440
     }
   }
 ]
