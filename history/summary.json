@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.oxybill.com.ico",
     "slug": "oxy-bill-app",
     "status": "down",
-    "uptime": "4.90%",
+    "uptime": "4.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-11": 70,
+      "2023-06-12": 66,
+      "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -379,8 +380,7 @@
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
-      "2022-06-13": 1440,
-      "2022-06-12": 1440
+      "2022-06-13": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oxybill.com.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "39.20%",
+    "uptime": "39.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.48%",
-    "time": 516,
+    "uptimeYear": "2.20%",
+    "time": 515,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 276,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-06-11": 70,
+      "2023-06-12": 66,
+      "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -765,7 +766,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.oxybill.com.ico",
     "slug": "docs-oxy-bill",
     "status": "down",
-    "uptime": "11.52%",
+    "uptime": "11.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -776,7 +777,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-11": 71,
+      "2023-06-12": 66,
+      "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -1139,8 +1141,7 @@
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
-      "2022-06-13": 1440,
-      "2022-06-12": 1440
+      "2022-06-13": 1440
     }
   }
 ]
