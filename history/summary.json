@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.oxybill.com.ico",
     "slug": "oxy-bill-app",
     "status": "down",
-    "uptime": "2.21%",
+    "uptime": "2.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 71,
+      "2025-10-01": 78,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -379,8 +380,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oxybill.com.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "39.68%",
+    "uptime": "39.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "92.43%",
-    "time": 1351,
-    "timeDay": 3430,
-    "timeWeek": 3862,
-    "timeMonth": 2715,
-    "timeYear": 1351,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "92.70%",
+    "time": 1356,
+    "timeDay": 3583,
+    "timeWeek": 3893,
+    "timeMonth": 2724,
+    "timeYear": 1356,
     "dailyMinutesDown": {
       "2025-09-18": 56,
       "2025-09-17": 9,
@@ -465,8 +465,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -478,7 +477,7 @@
     "uptime": "5.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -486,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 71,
+      "2025-10-01": 78,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -849,8 +849,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   }
 ]
